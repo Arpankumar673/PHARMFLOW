@@ -86,4 +86,3 @@ PharmFlow/
 - CORS protection.
 
 ---
-Created with ❤️ by Antigravity AI.
