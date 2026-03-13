@@ -7,7 +7,7 @@ node_modules/
 .env.production
 
 # Firebase secret key
-serviceAccountKey.json
+backend/src/serviceAccountKey.json
 
 # Build outputs
 dist/
